@@ -38,4 +38,4 @@ My config files for Virtual Machines, Feel free to use it for whatever reason
 
 ###### sidenote: the author (me) is not responsible for any damage made to your computer/VM
 
-###### please follow the [license](./license) if you have questions
+###### please follow the [license](./LICENSE) if you have questions
